@@ -220,7 +220,8 @@
             "email": "depo@mail.com",
             "password": "123456",
             "role": "depo",
-            "id_role": 1
+            "id_role": 1,
+            "token": "1"
         },
         {
             "id": 2,
@@ -229,7 +230,8 @@
             "email": "salerto@mail.com",
             "password": "123456",
             "role": "sales to",
-            "id_role": 2
+            "id_role": 2,
+            "token": "2"
         },
         {
             "id": 3,
@@ -238,7 +240,8 @@
             "email": "salermobilis@mail.com",
             "password": "123456",
             "role": "sales mobilis",
-            "id_role": 3
+            "id_role": 3,
+            "token": "3"
         },
         {
             "id": 4,
@@ -247,7 +250,8 @@
             "email": "salermotoris@mail.com",
             "password": "123456",
             "role": "sales motoris",
-            "id_role": 4
+            "id_role": 4,
+            "token": "4"
         },
         {
             "id": 5,
@@ -256,7 +260,8 @@
             "email": "driver@mail.com",
             "password": "123456",
             "role": "driver",
-            "id_role": 4
+            "id_role": 4,
+            "token": "5"
         }
     ],
 

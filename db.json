@@ -1,270 +1,4 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "dandang selection",
-            "description": "Description of dandang selection",
-            "size": 45,
-            "uom": "grams",
-            "price": 5000,
-            "stock": 100
-        },
-        {
-            "id": 2,
-            "name": "dandang selection",
-            "description": "Description of dandang selection",
-            "size": 400,
-            "uom": "grams",
-            "price": 7000,
-            "stock": 100
-        },
-        {
-            "id": 3,
-            "name": "dandang merah",
-            "description": "Description of dandang merah",
-            "size": 40,
-            "uom": "grams",
-            "price": 5000,
-            "stock": 100
-        },
-        {
-            "id": 4,
-            "name": "dandang merah",
-            "description": "Description of dandang merah",
-            "size": 80,
-            "uom": "grams",
-            "price": 8000,
-            "stock": 100
-        },
-        {
-            "id": 5,
-            "name": "dandang merah",
-            "description": "Description of dandang merah",
-            "size": 400,
-            "uom": "grams",
-            "price": 15000,
-            "stock": 100
-        },
-        {
-            "id": 6,
-            "name": "dandang biru",
-            "description": "Description of dandang biru",
-            "size": 40,
-            "uom": "grams",
-            "price": 5000,
-            "stock": 100
-        },
-        {
-            "id": 7,
-            "name": "dandang biru",
-            "description": "Description of dandang biru",
-            "size": 80,
-            "uom": "grams",
-            "price": 7000,
-            "stock": 100
-        },
-        {
-            "id": 8,
-            "name": "dandang biru",
-            "description": "Description of dandang biru",
-            "size": 400,
-            "uom": "grams",
-            "price": 13000,
-            "stock": 100
-        },
-        {
-            "id": 9,
-            "name": "dandang putih",
-            "description": "Description of dandang putih",
-            "size": 35,
-            "uom": "grams",
-            "price": 7000,
-            "stock": 100
-        },
-        {
-            "id": 10,
-            "name": "dandang hijau",
-            "description": "Description of dandang hijau",
-            "size": 35,
-            "uom": "grams",
-            "price": 6000,
-            "stock": 100
-        },
-        {
-            "id": 11,
-            "name": "dandang kraff",
-            "description": "Description of dandang kraff",
-            "size": 35,
-            "uom": "grams",
-            "price": 9000,
-            "stock": 100
-        },
-        {
-            "id": 12,
-            "name": "dandang vanilla tea",
-            "description": "Description of dandang vanilla tea",
-            "size": 50,
-            "uom": "grams",
-            "price": 6000,
-            "stock": 100
-        },
-
-        {
-            "id": 13,
-            "name": "dandang jasmine tea celup",
-            "description": "Description of dandang jasmine tea celup",
-            "size": 8,
-            "uom": "pcs",
-            "price": 7000,
-            "stock": 100
-        },
-        {
-            "id": 14,
-            "name": "dandang jasmine tea celup",
-            "description": "Description of dandang jasmine tea celup",
-            "size": 25,
-            "uom": "pcs",
-            "price": 14000,
-            "stock": 100
-        },
-        {
-            "id": 15,
-            "name": "dandang jasmine tea celup",
-            "description": "Description of dandang jasmine tea celup",
-            "size": 100,
-            "uom": "pcs",
-            "price": 31000,
-            "stock": 100
-        },
-
-        {
-            "id": 16,
-            "name": "dandang black tea celup",
-            "description": "Description of dandang black tea celup",
-            "size": 4,
-            "uom": "pcs",
-            "price": 7000,
-            "stock": 100
-        },
-        {
-            "id": 17,
-            "name": "dandang black tea celup",
-            "description": "Description of dandang black tea celup",
-            "size": 25,
-            "uom": "pcs",
-            "price": 13000,
-            "stock": 100
-        },
-        {
-            "id": 18,
-            "name": "dandang black tea celup",
-            "description": "Description of dandang black tea celup",
-            "size": 100,
-            "uom": "pcs",
-            "price": 26000,
-            "stock": 100
-        },
-
-        {
-            "id": 19,
-            "name": "dandang green tea celup",
-            "description": "Description of dandang green tea celup",
-            "size": 25,
-            "uom": "pcs",
-            "price": 12000,
-            "stock": 100
-        },
-        {
-            "id": 20,
-            "name": "dandang green tea celup",
-            "description": "Description of dandang green tea celup",
-            "size": 100,
-            "uom": "pcs",
-            "price": 45000,
-            "stock": 100
-        },
-        {
-            "id": 21,
-            "name": "dandang vanilla tea celup",
-            "description": "Description of dandang vanilla tea celup",
-            "size": 25,
-            "uom": "pcs",
-            "price": 10000,
-            "stock": 100
-        },
-        {
-            "id": 22,
-            "name": "dandang vanilla tea celup",
-            "description": "Description of dandang vanilla tea celup",
-            "size": 100,
-            "uom": "pcs",
-            "price": 38000,
-            "stock": 100
-        },
-        {
-            "id": 23,
-            "name": "dandang teh gula",
-            "description": "Description of dandang teh gula",
-            "size": 18,
-            "uom": "grams",
-            "price": 4000,
-            "stock": 100
-        }
-    ],
-
-    "users": [
-        {
-            "id": 1,
-            "name": "depo",
-            "username": "depo",
-            "email": "depo@mail.com",
-            "password": "123456",
-            "role": "depo",
-            "id_role": 1,
-            "token": "1"
-        },
-        {
-            "id": 2,
-            "name": "saler to",
-            "username": "salerto",
-            "email": "salerto@mail.com",
-            "password": "123456",
-            "role": "sales to",
-            "id_role": 2,
-            "token": "2"
-        },
-        {
-            "id": 3,
-            "name": "saler mobilis",
-            "username": "salermobilis",
-            "email": "salermobilis@mail.com",
-            "password": "123456",
-            "role": "sales mobilis",
-            "id_role": 3,
-            "token": "3"
-        },
-        {
-            "id": 4,
-            "name": "saler motoris",
-            "username": "salermotoris",
-            "email": "salermotoris@mail.com",
-            "password": "123456",
-            "role": "sales motoris",
-            "id_role": 4,
-            "token": "4"
-        },
-        {
-            "id": 5,
-            "name": "driver",
-            "username": "driver",
-            "email": "driver@mail.com",
-            "password": "123456",
-            "role": "driver",
-            "id_role": 4,
-            "token": "5"
-        }
-    ],
-
     "customers": [
         {
             "id": 1,
@@ -300,6 +34,263 @@
             "code": "cst0005",
             "address": "Address for customer",
             "contact": "081234567894"
+        }
+    ],
+
+    "saler": [
+        {
+            "id": 1,
+            "name": "Saler 1",
+            "code": "S02-00001",
+            "role_id": 2
+        },
+        {
+            "id": 2,
+            "name": "Saler 2",
+            "code": "S03-00002",
+            "role_id": 3
+        },
+        {
+            "id": 3,
+            "name": "Saler 3",
+            "code": "S04-00003",
+            "role_id": 4
+        },
+        {
+            "id": 4,
+            "name": "Saler 4",
+            "code": "S03-00004",
+            "role_id": 3
+        },
+        {
+            "id": 5,
+            "name": "Saler 5",
+            "code": "S03-00005",
+            "role_id": 3
+        },
+        {
+            "id": 6,
+            "name": "Saler 6",
+            "code": "S04-00006",
+            "role_id": 4
+        },
+        {
+            "id": 7,
+            "name": "Saler 7",
+            "code": "S04-00007",
+            "role_id": 4
+        }
+    ],
+    "saler-products": [
+        {
+            "id": 1,
+            "name": "Saler 1",
+            "code": "S02-00001",
+            "role_id": 2,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "dandang selection",
+                    "description": "Description of dandang selection",
+                    "size": 45,
+                    "uom": "grams",
+                    "price": 5000,
+                    "stock": 50
+                },
+                {
+                    "id": 2,
+                    "name": "dandang selection",
+                    "description": "Description of dandang selection",
+                    "size": 400,
+                    "uom": "grams",
+                    "price": 7000,
+                    "stock": 50
+                },
+                {
+                    "id": 3,
+                    "name": "dandang merah",
+                    "description": "Description of dandang merah",
+                    "size": 40,
+                    "uom": "grams",
+                    "price": 5000,
+                    "stock": 50
+                },
+                {
+                    "id": 4,
+                    "name": "dandang merah",
+                    "description": "Description of dandang merah",
+                    "size": 80,
+                    "uom": "grams",
+                    "price": 8000,
+                    "stock": 50
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Saler 2",
+            "code": "S03-00002",
+            "role_id": 3,
+            "products": [
+                {
+                    "id": 5,
+                    "name": "dandang merah",
+                    "description": "Description of dandang merah",
+                    "size": 400,
+                    "uom": "grams",
+                    "price": 15000,
+                    "stock": 30
+                },
+                {
+                    "id": 6,
+                    "name": "dandang biru",
+                    "description": "Description of dandang biru",
+                    "size": 40,
+                    "uom": "grams",
+                    "price": 5000,
+                    "stock": 30
+                },
+                {
+                    "id": 7,
+                    "name": "dandang biru",
+                    "description": "Description of dandang biru",
+                    "size": 80,
+                    "uom": "grams",
+                    "price": 7000,
+                    "stock": 30
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Customer 3",
+            "code": "cst0003",
+            "address": "Address for customer",
+            "contact": "081234567892",
+            "products": [
+                {
+                    "id": 8,
+                    "name": "dandang biru",
+                    "description": "Description of dandang biru",
+                    "size": 400,
+                    "uom": "grams",
+                    "price": 13000,
+                    "stock": 20
+                },
+                {
+                    "id": 9,
+                    "name": "dandang putih",
+                    "description": "Description of dandang putih",
+                    "size": 35,
+                    "uom": "grams",
+                    "price": 7000,
+                    "stock": 20
+                },
+                {
+                    "id": 10,
+                    "name": "dandang hijau",
+                    "description": "Description of dandang hijau",
+                    "size": 35,
+                    "uom": "grams",
+                    "price": 6000,
+                    "stock": 20
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Customer 4",
+            "code": "cst0004",
+            "address": "Address for customer",
+            "contact": "081234567893",
+            "products": [
+                {
+                    "id": 11,
+                    "name": "dandang kraff",
+                    "description": "Description of dandang kraff",
+                    "size": 35,
+                    "uom": "grams",
+                    "price": 9000,
+                    "stock": 30
+                },
+                {
+                    "id": 12,
+                    "name": "dandang vanilla tea",
+                    "description": "Description of dandang vanilla tea",
+                    "size": 50,
+                    "uom": "grams",
+                    "price": 6000,
+                    "stock": 30
+                },
+                {
+                    "id": 13,
+                    "name": "dandang jasmine tea celup",
+                    "description": "Description of dandang jasmine tea celup",
+                    "size": 8,
+                    "uom": "pcs",
+                    "price": 7000,
+                    "stock": 30
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Saler 5",
+            "code": "S03-00005",
+            "role_id": 3,
+            "products": [
+                {
+                    "id": 14,
+                    "name": "dandang jasmine tea celup",
+                    "description": "Description of dandang jasmine tea celup",
+                    "size": 25,
+                    "uom": "pcs",
+                    "price": 14000,
+                    "stock": 30
+                },
+                {
+                    "id": 15,
+                    "name": "dandang jasmine tea celup",
+                    "description": "Description of dandang jasmine tea celup",
+                    "size": 100,
+                    "uom": "pcs",
+                    "price": 31000,
+                    "stock": 30
+                },
+                {
+                    "id": 16,
+                    "name": "dandang black tea celup",
+                    "description": "Description of dandang black tea celup",
+                    "size": 4,
+                    "uom": "pcs",
+                    "price": 7000,
+                    "stock": 30
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Saler 6",
+            "code": "S04-00006",
+            "role_id": 4,
+            "products": []
+        },
+        {
+            "id": 7,
+            "name": "Saler 7",
+            "code": "S04-00007",
+            "role_id": 4,
+            "products": [
+                {
+                    "id": 18,
+                    "name": "dandang black tea celup",
+                    "description": "Description of dandang black tea celup",
+                    "size": 100,
+                    "uom": "pcs",
+                    "price": 26000,
+                    "stock": 100
+                }
+            ]
         }
     ]
 }

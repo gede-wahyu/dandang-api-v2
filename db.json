@@ -96,7 +96,7 @@
                     "uom": "grams",
                     "price": 5000,
                     "stock": 50,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/6571f01299e9a_dandang selection.png"
                 },
                 {
                     "id": 2,
@@ -106,7 +106,7 @@
                     "uom": "grams",
                     "price": 7000,
                     "stock": 50,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/6571f01299e9a_dandang selection.png"
                 },
                 {
                     "id": 3,
@@ -116,7 +116,7 @@
                     "uom": "grams",
                     "price": 5000,
                     "stock": 50,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/65720d44c6420_dandang selection.png"
                 }
             ]
         },
@@ -134,7 +134,7 @@
                     "uom": "grams",
                     "price": 15000,
                     "stock": 30,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/65720d44c6420_dandang selection.png"
                 },
                 {
                     "id": 6,
@@ -183,7 +183,7 @@
                     "uom": "grams",
                     "price": 7000,
                     "stock": 20,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/65721644aa00d_dandang-putih.png"
                 },
                 {
                     "id": 10,
@@ -193,7 +193,7 @@
                     "uom": "grams",
                     "price": 6000,
                     "stock": 20,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/657222ae1e8d4_dandang-hijau.png"
                 }
             ]
         },
@@ -212,7 +212,7 @@
                     "uom": "grams",
                     "price": 9000,
                     "stock": 30,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/6572235e361a3_dandang-wangipng.png"
                 },
                 {
                     "id": 12,
@@ -222,7 +222,7 @@
                     "uom": "grams",
                     "price": 6000,
                     "stock": 30,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/657223cf0bf02_dandang-vanilla-tea.png"
                 }
             ]
         },
@@ -240,7 +240,7 @@
                     "uom": "pcs",
                     "price": 14000,
                     "stock": 30,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/6572252312054_dandang jasmine-teas.png"
                 },
                 {
                     "id": 15,
@@ -250,7 +250,7 @@
                     "uom": "pcs",
                     "price": 31000,
                     "stock": 30,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/6572252312054_dandang jasmine-teas.png"
                 },
                 {
                     "id": 16,
@@ -260,7 +260,7 @@
                     "uom": "pcs",
                     "price": 7000,
                     "stock": 30,
-                    "image": "storage/barang/657215dc61513_dandang-biru.png"
+                    "image": "storage/barang/65722973e411b_dandang black-tea.png"
                 }
             ]
         },
